@@ -9,7 +9,7 @@ from datetime import datetime
 TOKEN = "7699996224:AAGRK31aHgxUQwgkdtfAOXXEWArEy-0WPnA"  # Reemplaza con tu token seguro
 
 # Lista de usuarios permitidos (IDs)
-USUARIOS_PERMITIDOS = {7142146578, 733317016, 6903942837, 7200393970, 6625965336, 5238277683}  # Sustituye con los IDs permitidos
+USUARIOS_PERMITIDOS = {7142146578, 733317016, 6903942837, 7200393970, 6625965336, 5238277683, 5648602792}  # Sustituye con los IDs permitidos
 
 # Rutas de plantillas y fuentes
 TEMPLATE_PATH = "plantilla.jpeg"  # Plantilla existente
